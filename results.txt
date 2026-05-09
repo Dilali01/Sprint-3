@@ -1,0 +1,32 @@
+================================================================================
+HEALTH DATA ANALYTICS SYSTEM - MILESTONE 5 & 6
+================================================================================
+✓ Patient John Doe added.
+✓ Patient Jane Smith added.
+
+--- Adding Health Records ---
+
+=======================================================================
+MILESTONE 5: CONCURRENCY & HIGH-PERFORMANCE
+=======================================================================
+1. Multithreading Time     : 0.0684 seconds
+2. Asynchronous (AsyncIO)  : 0.0523 seconds
+
+=======================================================================
+MILESTONE 6: RESEARCH CONTRIBUTION & NOVEL FEATURE
+=======================================================================
+Intelligent Health Risk Scoring:
+
+Patient P001 - John Doe:
+   Record 1 → Risk Score: 2.1
+   Record 2 → Risk Score: 11.8
+   Record 3 → Risk Score: 13.3
+
+Patient P002 - Jane Smith:
+   Record 1 → Risk Score: 2.1
+   Record 2 → Risk Score: 11.8
+   Record 3 → Risk Score: 13.3
+
+================================================================================
+✅ MILESTONE 5 & 6 SUCCESSFULLY COMPLETED
+================================================================================
